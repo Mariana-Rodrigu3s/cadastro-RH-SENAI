@@ -1,0 +1,22 @@
+{
+  "name": "cadastro-rh",
+  "version": "1.0.0",
+  "description": "cadastro rh",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariana-Rodrigu3s/cadastro-RH-SENAI.git"
+  },
+  "keywords": [
+    "classe"
+  ],
+  "author": "Mariana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mariana-Rodrigu3s/cadastro-RH-SENAI/issues"
+  },
+  "homepage": "https://github.com/Mariana-Rodrigu3s/cadastro-RH-SENAI#readme"
+}
