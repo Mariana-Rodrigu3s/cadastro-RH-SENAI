@@ -1,0 +1,81 @@
+.fundo{
+    width: 1440px;
+    height: 900px;
+    
+    
+
+}
+
+.div-imagem{
+    
+    justify-content: flex-start;
+    
+    
+
+}
+
+.div-textos{
+    position: absolute;
+    top: 70px;
+    bottom: 0px;
+    left: 900px;
+    display: block;
+    
+    line-height: 27px; 
+    letter-spacing: 2.37px;
+    
+    
+    
+}
+
+
+.titulo{
+    color: #F00;
+
+
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 38px; 
+    letter-spacing: 2.37px;
+}
+
+.subtitulo{
+    color: #000;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.texto01{
+    color: #9A9A9A;
+
+    font-family: Arial;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.texto02{
+    color: #989898;
+
+    font-family: Arial, Helvetica, sans-serif
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.logos{
+    
+    justify-content: flex-end;
+    align-items: flex-end;
+
+}
